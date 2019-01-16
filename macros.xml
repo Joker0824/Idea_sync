@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="同步设置">
-      <action id="ConfigureIcs" />
-    </macro>
-  </component>
-</application>
