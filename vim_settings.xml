@@ -1,0 +1,23 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/project/jlsfda-front/demo.html" timestamp="1547653317927" />
+      <file name="C:/project/jlsfda-front/src/components/dialog/dialog.vue" timestamp="1547653800728">
+        <mark key="[" line="6" column="13" />
+      </file>
+      <file name="C:/project/jlsfda-front/src/components/chart.vue" timestamp="1547653765837">
+        <mark key="[" line="23" column="8" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
