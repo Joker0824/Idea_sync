@@ -1,0 +1,24 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isStyledDirectories" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="tabOpacity" value="36" />
+    <option name="treeFontSize" value="18" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="d33682" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="userId" value="-fc3762c:168419e4e0c:-8000" />
+    <option name="version" value="3.3.0" />
+  </component>
+</application>

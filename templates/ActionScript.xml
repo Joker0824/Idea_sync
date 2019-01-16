@@ -1,0 +1,7 @@
+<templateSet group="ActionScript">
+  <template name="taa" value="i am template" description="dffff" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
