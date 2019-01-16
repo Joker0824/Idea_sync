@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="抽取变量">
+      <action id="IntroduceVariable" />
+    </macro>
+  </component>
+</application>
