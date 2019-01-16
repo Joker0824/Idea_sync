@@ -3,12 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/project/jlsfda-front/demo.html" timestamp="1547653317927" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1547655223194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/project/jlsfda-front/src/components/dialog/dialog.vue" timestamp="1547653800728">
         <mark key="[" line="6" column="13" />
       </file>
+      <file name="C:/project/java-learn/mywebapp/.classpath" timestamp="1547654786879">
+        <mark key="[" line="9" column="19" />
+      </file>
       <file name="C:/project/jlsfda-front/src/components/chart.vue" timestamp="1547653765837">
         <mark key="[" line="23" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1547655732639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1547654761513">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -17,7 +28,16 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
