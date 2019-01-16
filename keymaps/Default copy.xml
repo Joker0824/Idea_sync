@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="$TranslateAndReplaceAction" />
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift alt o" />
@@ -29,6 +32,9 @@
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
@@ -136,6 +142,10 @@
   </action>
   <action id="JumpToLastChange" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.抽取变量">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="MavenHelper.QuickRunMavenGoal" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.OverrideMethodAction" />
@@ -153,7 +163,9 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OverrideMethods" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
   <action id="PropertyInspectorActions.AddProperty" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
@@ -185,7 +197,9 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="SmartTypeCompletion" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
@@ -194,9 +208,6 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift alt m" />
-  </action>
-  <action id="ToggleCompletionHintsAction">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt d" />
