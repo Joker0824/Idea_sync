@@ -24,6 +24,7 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
@@ -98,6 +99,7 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindBugs.CurrentFileAction" />
   <action id="FindBugs.PreviewSelectBugInstance">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -165,6 +167,9 @@
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
