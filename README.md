@@ -1,6 +1,5 @@
-# Idea_sync
-Idea配置文件库
-> 同步idea的设置
+## Idea_sync
+Idea配置文件库,同步idea的设置
 #### Idea 快捷键
 
 `ctrl + l`:选中下一个相同的单词后跳过该单词
