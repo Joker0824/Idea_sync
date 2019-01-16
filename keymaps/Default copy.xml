@@ -134,6 +134,9 @@
   </action>
   <action id="JumpToLastChange" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.同步设置">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.OverrideMethodAction" />
@@ -144,6 +147,8 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MybatisProGoToXml" />
+  <action id="MybatisProXmlToJava" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
@@ -218,6 +223,7 @@
   <action id="ZoomCurrentWindow">
     <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
   <action id="hg4idea.QFold" />
   <action id="openAssertEqualsDiff" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
