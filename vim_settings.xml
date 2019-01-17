@@ -12,8 +12,16 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="C:/project/jlsfda-front/src/store/index.js" timestamp="1547690230972">
+        <mark key="[" line="50" column="18" />
+      </file>
       <file name="C:/project/jlsfda-front/src/components/dialog/dialog.vue" timestamp="1547687875455">
         <mark key="[" line="8" column="13" />
+      </file>
+      <file name="C:/project/jlsfda-front/src/App.vue" timestamp="1547690130452">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="C:/project/java-learn/mywebapp/.classpath" timestamp="1547654786879">
         <mark key="[" line="9" column="19" />
@@ -31,8 +39,18 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="C:/project/jlsfda-front/src/pages/myMain/statistics/PersonalStatistic.vue" timestamp="1547690645957">
+        <mark key="[" line="339" column="43" />
+        <mark key="]" line="340" column="7" />
+        <mark key="^" line="340" column="7" />
+        <mark key="." line="340" column="7" />
+      </file>
       <file name="/fragment.java" timestamp="1547654761513">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/project/jlsfda-front/config/dev.env.js" timestamp="1547689748291">
+        <mark key="'" line="6" column="39" />
+        <mark key="[" line="6" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -40,28 +58,29 @@
       <jump line="0" column="25" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
       <jump line="1" column="4" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
       <jump line="4" column="0" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
+      <jump line="6" column="39" filename="C:/project/jlsfda-front/config/dev.env.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">bmFtZT1yb290Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>driverClass</text>
+        <text>',</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">I3Bhc3N3b3JkPTEyMzQ1Ngo=</text>
       </register>
       <register name="-" type="4">
-        <text>driverClass</text>
+        <text>',</text>
       </register>
       <register name="/" type="4">
-        <text>pas</text>
+        <text>172</text>
       </register>
     </registers>
     <search>
-      <last-search>pas</last-search>
+      <last-search>172</last-search>
       <last-offset />
-      <last-pattern>pas</last-pattern>
+      <last-pattern>172</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -70,11 +89,13 @@
         <entry>driver</entry>
         <entry>jdbc</entry>
         <entry>pas</entry>
+        <entry>172</entry>
       </history-search>
       <history-cmd>
         <entry>cj</entry>
         <entry>mysql</entry>
         <entry>name</entry>
+        <entry>get</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -88,6 +109,30 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

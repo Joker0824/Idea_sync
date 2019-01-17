@@ -16,6 +16,9 @@
   <action id="ChangesView.Move" />
   <action id="CheckinProject" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -74,6 +77,9 @@
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
