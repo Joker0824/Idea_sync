@@ -18,25 +18,70 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1547655732639">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" timestamp="1547687763680">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1547654761513">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="3" column="14" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
+      <jump line="0" column="25" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
+      <jump line="1" column="4" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
+      <jump line="4" column="0" filename="C:/project/java-learn/mywebapp/target/classes/jdbc.properties" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">bmFtZT1yb290Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>driverClass</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I3Bhc3N3b3JkPTEyMzQ1Ngo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>driverClass</text>
+      </register>
+      <register name="/" type="4">
+        <text>pas</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>pas</last-search>
+      <last-offset />
+      <last-pattern>pas</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>driver</entry>
+        <entry>jdbc</entry>
+        <entry>pas</entry>
+      </history-search>
+      <history-cmd>
+        <entry>cj</entry>
+        <entry>mysql</entry>
+        <entry>name</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
