@@ -1,5 +1,7 @@
 <application>
   <component name="ConfigState">
+    <option name="backgroundColor" value="-1710619" />
+    <option name="foregroundColor" value="-8750470" />
     <option name="theme" value="Auto" />
   </component>
 </application>
