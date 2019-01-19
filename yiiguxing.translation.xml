@@ -4,6 +4,7 @@
       <language-pair target="ENGLISH" />
     </option>
     <histories>
+      <item value="bean" />
       <item value="students" />
       <item value="result Set" />
       <item value="prepare Statement" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
