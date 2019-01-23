@@ -115,7 +115,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindBugs.ChangesViewToolbar.ActiveChangeListAction" />
   <action id="FindBugs.CurrentFileAction" />
+  <action id="FindBugs.DefaultChangeListAction" />
   <action id="FindBugs.PreviewSelectBugInstance">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -188,6 +190,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
   <action id="QuickImplementations" />
+  <action id="RecentChanges" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -251,6 +254,9 @@
   <action id="XDebugger.MoveWatchUp" />
   <action id="ZoomCurrentWindow">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="hg4idea.QFold" />
   <action id="openAssertEqualsDiff" />
